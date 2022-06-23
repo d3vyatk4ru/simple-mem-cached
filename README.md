@@ -1,2 +1,2 @@
-# simple-mem-cached
-Simple memory cache by Golang
+# simple-mem-storage
+Simple memory storage by Golang
